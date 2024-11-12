@@ -1,2 +1,2 @@
-# RESTful-CNN
-VGG-16-like CNN, trained on CIFAR-100, 
+# RESTful-ML
+My models, my endpoints
